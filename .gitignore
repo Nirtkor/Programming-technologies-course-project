@@ -1,0 +1,20 @@
+# Файлы сборки
+*.o
+*.obj
+*.out
+*.exe
+a.out
+
+# Скомпилированные исполняемые файлы
+coursework-car-dealership/dealership
+**/build/
+
+# Сгенерированные программами данные/вывод
+*.dat
+three.txt
+
+# Служебные файлы ОС и редакторов
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
